@@ -1,0 +1,39 @@
+class StringResources {
+  static const welcomeText = "Welcome,";
+  static const toAlumniAppText = "to the giftly app";
+  static const GiftlyText = "Where you can find out all your needs";
+  static const signUp = "SIGN UP ";
+  static const UserText = "User";
+  static const signUpText = "Sign up";
+  static const signInToContinueText = "please sign in to continue";
+  static const signUpToContinueText = "please sign up to continue";
+  static const adminSignUpText = "Admin sign up";
+  static const emailText = "Email";
+  static const passwordText = "Password";
+  static const accountInfoText = "Account Info";
+  static const nameText = "Name";
+  static const continueText = "CONTINUE";
+  static const registerNumberText = "Register number";
+  static const brandeNameText = "Brand name";
+  static const brandInfoText = "Brand Info";
+  static const degreeText = "Degree";
+  static const majorText = "Major";
+  static const batchText = "Batch";
+  static const registerText = "REGISTER";
+  static const titleText = "Title";
+  static const descriptionText = "Description";
+  static const scheduledDateText = "Scheduled Date";
+  static const imageText = "Image";
+  static const venueText = "Venue";
+  static const contactText = "Contact";
+  static const phoneNumberText = "Phone number";
+  static const genderText = "Gender";
+  static const personalInfoText = "Personal Info";
+  static const dateOfBirthText = "Date of Birth";
+  static const addNewFeedText = "ADD FEED";
+  static const newFeedText = "New Feed";
+  static const signInText = "Sign in";
+}
+
+const DEGREE_LIST = ["B.A", "B.Sc", "B.E"];
+const GENDER_LIST = ["Male", "Female", "Others"];
